@@ -12,3 +12,7 @@ spotify_username: gignacioftw
 steam_username: sokka
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
