@@ -10,6 +10,6 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 twitter_username: seethingboog # DO NOT include the @ character, or else the build will fail!
 instagram_username: gabriel._.ignacio
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  GabrielIgnacio # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
