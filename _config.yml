@@ -11,8 +11,14 @@ github_username:  GabrielIgnacio # DO NOT include the @ character, or else the b
 spotify_username: gignacioftw
 steam_username: sokka
 
+share-links-active:
+  instagram_username: true
+  github_username: true
+  spotify_username: true
+  steam_username: true
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
