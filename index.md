@@ -2,4 +2,7 @@
 title: "roses_are_rosie"
 ---
 
-I'm glad you are here. I plan to talk about ...
+About Me  
+Name: Gabriel Ignacio
+Age: 16
+Interests: Music, Video Games
