@@ -8,7 +8,7 @@ Age: 17
 Birthday: June 11th, 2004  
 Interests: Music, Video Games  
 
-https://user-images.githubusercontent.com/84792697/121987096-c7a80380-cd65-11eb-8f87-9fb2ecc1d2c4.jp
+https://user-images.githubusercontent.com/84792697/121987096-c7a80380-cd65-11eb-8f87-9fb2ecc1d2c4.jpg
 
 **Important Links**  
 Instagram: https://www.instagram.com/gabriel._.ignacio/  
