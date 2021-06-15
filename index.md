@@ -13,3 +13,9 @@ GitHub: https://github.com/GabrielIgnacio
 Spotify: https://open.spotify.com/user/th0tslayerr?si=f6525290830e4bcc  
 last.fm: https://www.last.fm/user/gignacioftw  
 
+https://user-images.githubusercontent.com/84792697/121987096-c7a80380-cd65-11eb-8f87-9fb2ecc1d2c4.jpg
+
+**Brag Sheet:**
+Certified Bliteracy in Spanish
+Work at Kumon Learning Center
+National Hispanic Recognition Program Scholar
