@@ -4,7 +4,7 @@ title: "Gabriel Ignacio"
 
 **About Me**  
 Name: Gabriel Ignacio  
-Age: 17
+Age: 17  
 Birthday: June 11th, 2004  
 Interests: Music, Video Games  
 
