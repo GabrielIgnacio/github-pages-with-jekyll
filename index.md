@@ -19,4 +19,4 @@ last.fm: https://www.last.fm/user/gignacioftw
 **Brag Sheet:**  
 Certified Biliteracy in Spanish  
 Work at Kumon Learning Center  
-National Hispanic Recognition Program Scholar  
+National Hispanic Recognition Program Scholar    
